@@ -1,0 +1,38 @@
+body{
+    background: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color:rgb(34,34,34);
+    
+}
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+
+
+.foto{
+  width: 200px;
+  border: 2px solid #FFFF;; /*shorthand*/
+  border-radius: 50%; /*para deixar a foto redonda*/
+  margin: 30px;
+  box-shadow: 2px 2px 2px rgb(240, 238, 238);
+  
+  
+}
+h1{
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 40px;
+  
+}
+h2{
+  margin-top: 0;
+  font-style: italic;
+  color: rgb(74 74 74);
+  font-weight: 100;
+  letter-spacing: -1px;
+}
+
+
+

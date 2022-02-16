@@ -1,0 +1,22 @@
+body{
+    background: #dfdfdf:
+}
+
+p{
+  color:rgb(34,34,34);
+}
+
+.foto{
+  width: 200px;
+  border: 2px solid #ffffff; /*shorthand*/
+  border-radius: 50%; /*para deixar a foto redonda*/
+
+
+  /*mesmo exemplo maior
+  border-width:5px;
+  border-stylo:solid;
+  border-color:black;
+  */
+
+}
+
